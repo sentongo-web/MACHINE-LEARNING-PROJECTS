@@ -1,0 +1,13 @@
+You have been provided with a folder containing an excel sheet called "Diagnosis_data.xlsx" and a notepad describing the data
+
+1. Explore the distribution of dataset by checking each variable for; 5 MARKS 
+a) Missing data
+b) Outliers
+
+2. Check for the relationship between any two of these types of variables; 5 MARKS
+a) Continuous and categorical variables
+b) Categorical variables
+
+3. Which of the variables are most correlated or linked to;
+a) d1 decision: Inflammation of urinary bladder
+b) d2 decision: Nephritis of renal pelvis origin
